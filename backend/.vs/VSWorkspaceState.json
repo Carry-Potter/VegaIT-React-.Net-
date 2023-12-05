@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "\\Time.Sheet",
+    "\\Time.Sheet.Web",
+    "\\TimeSheet.Core",
+    "\\TimeSheet.Persistance"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,6 @@
+C:\Users\ivan\Desktop\timesheet\Time.Sheet\TimeSheet.Core.Test\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
+C:\Users\ivan\Desktop\timesheet\Time.Sheet\TimeSheet.Core.Test\obj\Debug\netcoreapp3.1\TimeSheet.Core.Test.csproj.AssemblyReference.cache
+C:\Users\ivan\Desktop\timesheet\Time.Sheet\TimeSheet.Core.Test\obj\Debug\netcoreapp3.1\TimeSheet.Core.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan\Desktop\timesheet\Time.Sheet\TimeSheet.Core.Test\obj\Debug\netcoreapp3.1\TimeSheet.Core.Test.AssemblyInfoInputs.cache
+C:\Users\ivan\Desktop\timesheet\Time.Sheet\TimeSheet.Core.Test\obj\Debug\netcoreapp3.1\TimeSheet.Core.Test.AssemblyInfo.cs
+C:\Users\ivan\Desktop\timesheet\Time.Sheet\TimeSheet.Core.Test\obj\Debug\netcoreapp3.1\TimeSheet.Core.Test.csproj.CoreCompileInputs.cache

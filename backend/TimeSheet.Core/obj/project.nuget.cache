@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "oW71Bwzy2+id+hM/LDYYMqN34/jcLSJ97G9okFIepPja2A7d3tNlC2cPnqn/tEPFHW8NAVvwUdfZZAKW5VCwAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivan1\\OneDrive\\Radna površina\\vega-it-main\\backend\\TimeSheet.Core\\TimeSheet.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivan1\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\ivan1\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\ivan1\\.nuget\\packages\\csharpfunctionalextensions\\2.20.0\\csharpfunctionalextensions.2.20.0.nupkg.sha512",
+    "C:\\Users\\ivan1\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\ivan1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\ivan1\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\ivan1\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\ivan1\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
